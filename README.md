@@ -7,10 +7,4 @@ To start
     cd reactui
     npm install && npm start
     
-And then visit [http://localhost:3000/](http://localhost:3000/) and enjoy
-
-### TODO
-
-* Add rake task to use manifest
-* Use asset host to distinguish between local and production
-* make a todolist based example
+And then visit [http://localhost:3000/](http://localhost:3000/)
